@@ -24,7 +24,17 @@ public class CustomerTest {
 
 	
 	@Test
+	public void filterCustomerTest(){
+		System.out.println("execute search filterCustomerTest");
+	}
+	@Test
 	public void modifyCustomerTest(){
+		System.out.println("execute modify Customer");
+	
+	}
+	
+	@Test
+	public void duplicateCustomerTest(){
 		System.out.println("execute modify Customer");
 	
 	}
